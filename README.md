@@ -1,5 +1,5 @@
 # Real-Time Colour Detection — Jetson Nano + RPi Camera
-## Project Setup & Run Guide
+## Project Setup and Run Guide
 
 ---
 
